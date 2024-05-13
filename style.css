@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+    border-bottom: solid 1px black;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+}
